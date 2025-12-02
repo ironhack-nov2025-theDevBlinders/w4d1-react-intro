@@ -56,3 +56,13 @@ button:focus-visible {
   margin: 1rem;
   padding: 0.5rem;
 }
+
+.badge {
+  background-color: rgb(4, 128, 0);
+  color: #fff;
+  border-radius: 0.5rem;
+  max-width: 200px;
+  margin: 1rem auto;
+  padding: 0.5rem 0.2rem;
+  font-weight: bold;
+}
